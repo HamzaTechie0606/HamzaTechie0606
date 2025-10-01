@@ -19,5 +19,5 @@ Build fast, scalable, and pixel-perfect UIs
 Turn designs into smooth user experiences
 
 Collaborate in agile teams with strong code practices
-
-# 📫 Let’s Connect: Always open to collaborating on open-source projects or innovative ideas!
+---
+📫 Let’s Connect: Always open to collaborating on open-source projects or innovative ideas!
