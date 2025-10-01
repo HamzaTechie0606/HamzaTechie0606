@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Hamza
+---
+# Subtitle
+---
+I’m a 💻Frontend developer passionate about transforming ideas into intuitive and engaging digital experiences. I specialize in building responsive, performance, and scalable web applications using modern technologies like React, Next.js, and Tailwind CSS. I enjoy crafting clean code, solving complex UI challenges, and continuously learning to stay ahead in the fast-moving world of web development. My goal is to create user interfaces that are not only functional but also delightful to use.
 
-<!--
-**HamzaTechie0606/HamzaTechie0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Skill Stack
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,nodejs,tailwind,js,bootstrap,react,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱Currently Exploring: 
+Advanced React patterns 
+Performance optimization
+full-stack integrations.
+
+# 🚀What I Do
+
+Build fast, scalable, and pixel-perfect UIs
+
+Turn designs into smooth user experiences
+
+Collaborate in agile teams with strong code practices
+
+# 📫 Let’s Connect: Always open to collaborating on open-source projects or innovative ideas!
