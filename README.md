@@ -9,8 +9,8 @@ I’m a 💻Frontend developer passionate about transforming ideas into intuitiv
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,git,nodejs,tailwind,js,bootstrap,react,github)](https://skillicons.dev)
 
 # 🌱Currently Exploring: 
-Advanced React patterns 
-Performance optimization
+Advanced React patterns, 
+Performance optimization,
 full-stack integrations.
 
 # 🚀What I Do
