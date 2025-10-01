@@ -14,11 +14,11 @@ full-stack integrations.
 
 # 🚀What I Do:
 
-Build fast, scalable, and pixel-perfect UIs
+Build fast, scalable, and pixel-perfect UIs.
 
-Turn designs into smooth user experiences
+Turn designs into smooth user experiences.
 
-Collaborate in agile teams with strong code practices
+Collaborate in agile teams with strong code practices.
 
 ---
 📫 Let’s Connect: Always open to collaborating on open-source projects or innovative ideas!
