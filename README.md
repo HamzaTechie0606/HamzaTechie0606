@@ -5,7 +5,7 @@ I’m a 💻Frontend developer passionate about transforming ideas into intuitiv
 
 
 # Skill Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,nodejs,tailwind,js,bootstrap,react,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,git,nodejs,tailwind,js,bootstrap,react,github,vite,nextjs)](https://skillicons.dev)
 
 # 🌱Currently Exploring: 
 Advanced React patterns, 
